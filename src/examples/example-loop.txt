@@ -1,0 +1,10 @@
+var n, f;
+begin
+   n := 0;
+   fgb := 1;
+   whi/*le n <= 16 do
+   begin
+      n := n + 1;
+      f := f *// n;
+   end;
+end.

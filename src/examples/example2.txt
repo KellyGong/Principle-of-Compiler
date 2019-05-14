@@ -1,0 +1,21 @@
+var i,b;
+const  v := 2, a = , c 7 ; //error 2 and 3 and 4
+procedure p;
+var b,c;
+
+begin
+	a = x; //error 1
+	b := y;
+	z  0; //error 10
+	while b > 0 //error 5
+	begin
+		if odd b z := (z + a ;//error 6 7
+		
+		a := 2 * a; b := b / 2;
+	end;
+end;
+
+begin
+  i := 1;
+  call ; //error 9
+end.

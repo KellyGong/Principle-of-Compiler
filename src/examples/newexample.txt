@@ -1,0 +1,29 @@
+var a b;  //2
+const =3;   //4
+var ,@c;   //5
+const c 3; // 8
+const cgrjeionfdrggerng = b; //10
+procedure ;   //6
+odd 	    // 15
+
+begin
+
+i:=1;
+j 1; // 9
+end;
+
+
+procedure wife;
+begin
+	i := odd 3; //18
+	man := 5dddd; //sssss
+	man_1 := 6; 
+	call p;
+
+	
+end //sssss
+
+begin
+call ;   //7
+i := 2+3;   //3
+end.   //1

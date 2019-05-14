@@ -1,0 +1,22 @@
+var n  f; //var miss , 2
+
+const =5;  	//Expect an identifier after const."   5
+
+const n 5;		//Expect an '=' after identifier
+
+const n = (b+5);
+
+var , b;		//Expect an identifier after var."   6
+
+const n=5 b=6;	//const miss ,2
+
+	procedure ;
+		begin
+		call her;
+		end;
+	
+begin
+b 2;
+a:=2
+end.
+		//ERR_DOT_MISS "Missing '.' , 1
